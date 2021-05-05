@@ -8,7 +8,7 @@ export class ProductListComponent {
     pageTitle: string = 'Product List';
     products: any[] = [
         {
-            "productId": 2,
+            "productId": 3,
             "productName": "Garden Cart",
             "productCode": "GDN-0023",
             "releaseDate": "March 18, 2021",
